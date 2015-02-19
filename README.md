@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/kkirsche/Meetup-API.svg)](https://travis-ci.org/kkirsche/Meetup-API)
 # Meetup API
 
 Wrapper allowing users to interact with the Meetup API.
